@@ -1,7 +1,0 @@
-title: My Portfolio Site
-baseurl: "/"
-url: "https://kishoreafk.github.io"  # Replace with your GitHub Pages URL
-source: docs  # Only include this if your files are in a /docs folder
-sass:
-  load_paths:
-    - assets/css
